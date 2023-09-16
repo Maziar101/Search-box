@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Bmw E30",
+        "Salary": 10,
+        "Brand": "Bmw",
+        "img": "image/10.jpg"
+    },
+    {
+        "name": "Benz Gclass",
+        "Salary": 40,
+        "Brand": "Benz",
+        "img": "image/4.jpg"
+    },
+    {
+        "name": "Bmw M4",
+        "Salary": 20,
+        "Brand": "Bmw",
+        "img": "image/8.jpg"
+    },
+    {
+        "name": "Benz Gclass",
+        "Salary": 70,
+        "Brand": "Benz",
+        "img": "image/5.webp"
+    },
+    {
+        "name": "Benz Old",
+        "Salary": 90,
+        "Brand": "Benz",
+        "img": "image/3.jpg"
+    },
+    {
+        "name": "Bmw New",
+        "Salary": 80,
+        "Brand": "Bmw",
+        "img": "image/6.jpg"
+    },
+    {
+        "name": "Bmw 2022",
+        "Salary": 50,
+        "Brand": "Bmw",
+        "img": "image/9.webp"
+    },
+    {
+        "name": "Benz Gclass",
+        "Salary": 20,
+        "Brand": "Benz",
+        "img": "image/11.webp"
+    },
+    {
+        "name": "Benz 2023",
+        "Salary": 40,
+        "Brand": "Benz",
+        "img": "image/2.jpg"
+    },
+    {
+        "name": "Benz 2022",
+        "Salary": 50,
+        "Brand": "Benz",
+        "img": "image/1.jpg"
+    },
+    {
+        "name": "Bmw 2016",
+        "Salary": 50,
+        "Brand": "Bmw",
+        "img": "image/12.jpg"
+    },
+    {
+        "name": "Bmw 2018",
+        "Salary": 70,
+        "Brand": "Bmw",
+        "img": "image/7.jpg"
+    }
+]

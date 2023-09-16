@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+body{
+    width: 100%;
+    height: auto;
+    background-color: #000;
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    box-shadow: 0 0 10px blue inset;
+}
+
+p{
+    margin-bottom: 0 !important;
+    
+}
+.Products-section{
+    display: grid;
+    margin: auto;
+    width: 70%;
+    gap: 20px;
+    grid-template-columns: auto auto auto auto;
+}
+.Products-section div{
+    border-radius: 8px;
+    border: 1px solid #fff; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    padding: 10px;
+}
+.Products-section p{
+    margin-top: 8px;
+}
+main form{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: center;
+    gap: 20px;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.search-btn{
+    padding: 4px 15px;
+    background-color: orange;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.search-boxes{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 85%;
+    margin: auto;
+}
+.search-box{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+input{
+    padding: 3px 10px;
+}
+.left-margin{
+    padding-left: 143px;
+}
